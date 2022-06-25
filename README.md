@@ -3,4 +3,4 @@
 
 Basic introduction of applying machine learning with R.
 
-Study developed in [RStudio Cloud](https://rstudio.cloud/)
+Study developed in [RStudio Cloud](https://rstudio.cloud/).
